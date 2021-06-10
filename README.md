@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Flares243
 - 👀 I’m interested in web technology.
-- 🌱 I’m currently learning MERN and flutter.
+- 🌱 I’m currently learning MERN, flutter and firebase.
 - 💞️ I’m looking to collaborate on everyone :)
