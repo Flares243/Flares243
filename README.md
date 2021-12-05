@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Flares243
+- 👋 Hi, I’m Flares
 - 👀 I’m interested in web technology.
 - 🌱 I’m currently learning something new.
 - 💞️ I’m looking to collaborate on everyone :)
