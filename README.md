@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Flares
 - 👀 I’m interested in cross platform technology.
-- 🌱 I’m currently and always learning something new.
+- 🌱 I’m always learning something new.
 - 💞️ I’m looking to collaborate on everyone :)
